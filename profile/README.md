@@ -1,3 +1,6 @@
-# [Algorithm Productions](www.algorithm.ie)
+# Algorithm Productions
+
+GitHub page for project repositories, etc. 
+
 
 
